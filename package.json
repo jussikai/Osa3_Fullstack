@@ -1,0 +1,26 @@
+{
+  "name": "osa3",
+  "version": "1.0.0",
+  "description": "puhelinluettelo back",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jussikai/Osa3_Fullstack.git"
+  },
+  "author": "jussikai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jussikai/Osa3_Fullstack/issues"
+  },
+  "homepage": "https://github.com/jussikai/Osa3_Fullstack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
