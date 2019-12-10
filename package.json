@@ -7,20 +7,17 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jussikai/Osa3_Fullstack.git"
-  },
   "author": "jussikai",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jussikai/Osa3_Fullstack/issues"
-  },
-  "homepage": "https://github.com/jussikai/Osa3_Fullstack#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
+  },
+  "engines": {
+    "node": "^10.16.3"
   }
 }
